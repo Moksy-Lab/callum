@@ -129,7 +129,9 @@ background-color: var(--primary-Color);
 /* crunellaobWyteyCWzRLkMG */
 .crunellaobWyteyCWzRLkMG .fdb-block h1{
     font-size: var(--heading);
-    margin-top: 15px;
+    }
+.crunellaobWyteyCWzRLkMG .fdb-block img + h1{
+    margin-top: 15px !important;
 }
 /* quoteq50b1c56df5d4596e */
 .quoteq50b1c56df5d4596e{
