@@ -101,6 +101,38 @@ background-color: var(--primary-Color);
 .fernandof38911b935c3ef6d9 h3 {
     font-size: var(--heading-two);
 }
+/* aboutp3dce575962b3c369 */
+.aboutp3dce575962b3c369 .jumbotron{
+    background-color: var(--main-Background-Color);
+}
+.aboutp3dce575962b3c369 .badge{
+    display: none;
+}
+.aboutp3dce575962b3c369 .DescriptionHeading{
+    font-size: var(--heading);
+    color: var(--secondary-Color);
+}
+.aboutp3dce575962b3c369 .searchBtn{
+    display: none;
+}
+/* funtushftac0ssp3mu */
+.funtushftac0ssp3mu h1 {
+    font-size: var(--heading);
+}
+.funtushftac0ssp3mu h3 {
+    font-size: var(--heading-two);
+    margin-top: 15px;
+}
+.funtushftac0ssp3mu strong {
+    font-weight: var(--button-font-weight);
+}
+/* crunellaobWyteyCWzRLkMG */
+.crunellaobWyteyCWzRLkMG .fdb-block h1{
+    margin-top: 15px;
+}
+.crunellaobWyteyCWzRLkMG h1 {
+    font-size: var(--heading);
+}
 
 
 
@@ -109,3 +141,37 @@ background-color: var(--primary-Color);
 
 
 
+
+
+
+
+
+
+
+
+
+/* teamtmo0iuz3mdx */
+.teamtmo0iuz3mdx h1 {
+    font-size: var(--heading);
+}
+.teamtmo0iuz3mdx .fdb-block .row-70 {
+    height: 2.375rem;
+    width: 100%;
+}
+.teamtmo0iuz3mdx h4 {
+    font-size: var(--heading-two);
+}
+.teamtmo0iuz3mdx .fdb-block{
+    padding: 5.5rem 0;
+}
+
+
+
+
+
+/* flaneft7gnhn3qye */
+.flaneft7gnhn3qye a,
+.flaneft7gnhn3qye a:hover{
+    font-weight: var(--button-font-weight);
+    color: var(--black-Color);
+}
