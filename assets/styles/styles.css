@@ -1,0 +1,376 @@
+/*****TypographyCSS*****/
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); 
+scroll-behavior: smooth;}
+
+@-ms-viewport {
+  width: device-width; }
+
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects; }
+
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+ }
+
+textarea {
+  overflow: auto;
+  resize: vertical; }
+
+h1, .h1 {
+  font-size: 2.75rem; }
+
+h2, .h2 {
+  font-size: 2rem; }
+
+h3, .h3 {
+  font-size: 1.125rem; }
+
+h4, .h4 {
+  font-size: 1rem; }
+
+h5, .h5 {
+  font-size: 0.875rem; }
+
+h6, .h6 {
+  font-size: 0.813rem; }
+
+.lead {
+  font-size: 1.4rem;
+  font-weight: 400; }
+
+.display-1 {
+  font-size: 6rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-2 {
+  font-size: 5.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-3 {
+  font-size: 4.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1); }
+/*****TypographyCSS*****/
+
+/*****hasis*****/ 
+/* #hasis(e2d79a3ca0c8814a) #css starts  */
+.headere2d79a3ca0c8814a .head{ 
+    color: red;
+}
+.headere2d79a3ca0c8814a .button{
+    background-color: rgb(255, 187, 0);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-weight: bold;
+}
+/* #hasis(e2d79a3ca0c8814a) #css ends  */
+/*****hasis*****/
+
+/*****apeli*****/
+/* #apeli(4c8deeb2f4571930) #css starts  */
+.abouta4c8deeb2f4571930 .main{
+    height: 100vh;
+    background-image: url(https://rb.gy/7e2k0f); 
+    background-size: cover; 
+    background-position: center
+}
+.abouta4c8deeb2f4571930 .content{
+    top: 0; 
+    right: 0; 
+    bottom: 0; 
+    left: 0; 
+    background-color: rgba(0,0,0,.7)
+}
+.abouta4c8deeb2f4571930 .about{
+    border-radius: 30px; 
+    background-color: #9B5DE5
+}
+/* #apeli(4c8deeb2f4571930) #css ends  */
+/*****apeli*****/
+
+/*****cion*****/
+    /* #cion(calltoactionca75l1dtxe0) #css starts  */
+    .calltoactionca75l1dtxe0 .fdb-block {
+        padding: 7.5rem 0;
+        position: relative;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        background-color: #FFFFFF 
+    }
+    
+    .calltoactionca75l1dtxe0 .btn-light{
+        border: 1px solid #FE6655
+    }
+    
+    .calltoactionca75l1dtxe0 .fdb-block img.fdb-icon {
+          max-width: 3.75rem
+         }
+    /* #cion(calltoactionca75l1dtxe0) #css ends  */
+/*****cion*****/
+
+/*****fernando*****/
+/* #fernando(fernandof38911b935c3ef6d9) #css starts */
+.fernandof38911b935c3ef6d9 .fdb-block {
+    padding: 7.5rem 0
+ }
+ .fernandof38911b935c3ef6d9 .fdb-block img + h3, 
+ .fernandof38911b935c3ef6d9 .fdb-block img + h4 {
+      margin-top: 1.25rem }
+      
+      .fernandof38911b935c3ef6d9 .fdb-block img.fdb-icon {
+      width: auto;
+      width: 3.75rem }
+/* #fernando(fernandof38911b935c3ef6d9) #css starts */
+/*****fernando*****/
+
+/*****adolf*****/
+/* #adolf(p3dce575962b3c369) #css starts  */
+.aboutp3dce575962b3c369 .jumbotron{
+    border-radius: 13px
+}
+.aboutp3dce575962b3c369 .DescriptionHeading {
+        font-size: 40px;
+        color: #0A033C
+    }
+
+    .aboutp3dce575962b3c369 .DescriptionPara {
+        color: #0A033C;
+        font-size: 18px
+    }
+    
+    .aboutp3dce575962b3c369 .badge{
+        color: #A560F4;
+        background-color: #F5F0F7
+    }
+    .aboutp3dce575962b3c369 .searchBtn{
+        background-color:#FF705E ;
+        border-radius: 10px;
+        color: white;
+        font-weight: bold
+    }
+/* #adolf(p3dce575962b3c369) #css ends  */
+/*****adolf*****/
+
+/*****crunella*****/
+    /* #crunella(crunellaobWyteyCWzRLkMG) #css starts  */
+    .crunellaobWyteyCWzRLkMG .fdb-block {
+        padding: 7.5rem 0
+     }
+    .crunellaobWyteyCWzRLkMG .fdb-block img + h1, .fdb-block img + h2 {
+          margin-top: 2.5rem
+    }
+    
+    .crunellaobWyteyCWzRLkMG .fdb-block img.fdb-icon {
+            max-width: 3.75rem
+    }
+    /* #crunella(crunellaobWyteyCWzRLkMG) #css ends  */
+/*****crunella*****/
+
+/*****quick*****/
+/* #quick(q50b1c56df5d4596e) #css starts  */
+.quoteq50b1c56df5d4596e .subscription.bg-white {
+    background: none
+}
+
+.quoteq50b1c56df5d4596e .bg-white {
+    background-color: #fff
+}
+
+.quoteq50b1c56df5d4596e .subscription.bg-white .subscription-wrapper {
+    background: #fff
+}
+
+.quoteq50b1c56df5d4596e .subscription-wrapper {
+    border-radius: 0% 5% 10% 3%/10% 20% 0% 17%;
+    -webkit-transform: perspective(1800px) rotateY(20deg) skewY(1deg) translateX(50px);
+    transform: perspective(1800px) rotateY(20deg) skewY(1deg) translateX(50px);
+    padding: 70px 50px;
+    z-index: 1;
+    width: 100%;
+    background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
+    top:100px
+}
+
+.quoteq50b1c56df5d4596e .subscription-wrapper {
+    box-shadow: 0px 15px 39px 0px rgba(8, 18, 109, 0.1)
+}
+
+.quoteq50b1c56df5d4596e .subscription-content {
+    -webkit-transform: skewY(-1deg);
+    transform: skewY(-1deg)
+}
+
+.quoteq50b1c56df5d4596e h3, 
+.quoteq50b1c56df5d4596e .h3 {
+    font-size: 30px
+}
+
+.quoteq50b1c56df5d4596e .flex-fill {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto
+}
+
+.quoteq50b1c56df5d4596e .subscription.bg-white .form-control {
+    border: 1px solid #ebebeb
+}
+
+.quoteq50b1c56df5d4596e .subscription-wrapper .form-control {
+    height: 60px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 45px
+}
+
+.quoteq50b1c56df5d4596e .subscription-wrapper .form-control:focus {
+    background: rgba(255, 255, 255, 0.1);
+    outline: 0;
+    box-shadow: none
+}
+
+.quoteq50b1c56df5d4596e .btn:not(:disabled):not(.disabled) {
+    cursor: pointer
+}
+
+.quoteq50b1c56df5d4596e .btn-primary {
+    border: 0;
+    color: #fff
+}
+
+.quoteq50b1c56df5d4596e .btn {
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 18px 45px;
+    border-radius: 45px;
+    font-weight: 500;
+    border: 1px solid;
+    position: relative;
+    z-index: 1;
+    transition: .3s ease-in;
+    overflow: hidden
+}
+
+.quoteq50b1c56df5d4596e .btn-primary:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 102%;
+    height: 100%;
+    background: linear-gradient(45deg, #00a8f4 0%, #02d1a1 100%);
+    z-index: -1;
+    transition: ease 0.3s
+}
+/* #quick(q50b1c56df5d4596e) #css ends  */
+/*****quick*****/
+
+/*****tamia*****/
+    /* #tamia(testimonialtmgmxjq0hb8) #css starts  */
+    .testimonialtmgmxjq0hb8 .fdb-block {
+        padding: 7.5rem 0;
+        position: relative;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        background-color: #FFFFFF; 
+        background-image: url(https://builder.moksy.com/wp-content/uploads/2022/08/red.svg)
+      }
+       
+       .testimonialtmgmxjq0hb8 .fdb-block .fdb-box {
+          background: #FFFFFF;
+          padding: 3.75rem 2.5rem;
+          overflow: hidden;
+          color: #444444;
+          border-radius: 0.25rem;
+          box-shadow: 0 0.3125rem 0.875rem 0 rgba(129, 129, 129, 0.2)
+        }
+    /* #tamia(testimonialtmgmxjq0hb8) #css ends  */
+/*****tamia*****/
+
+/*****annu*****/
+    /* #annu(eb092de7c8df0610) #css starts  */
+    .abouteb092de7c8df0610 #AbOuTuS {
+        padding: 3rem;
+        font-weight: bold
+    }
+
+    .abouteb092de7c8df0610 #AbOuTuS .text-custom {
+        color: #0062ff
+    }
+
+    .abouteb092de7c8df0610 #AbOuTuS a {
+        text-decoration: none
+    }
+
+    .abouteb092de7c8df0610 #AbOuTuS .images {
+        max-height: 80px;
+        max-width: 80px
+    }
+
+    /* #annu(eb092de7c8df0610) #css ends  */
+/*****annu*****/
+
+/*****tamzin*****/ 
+/* #tamzin(teamtmo0iuz3mdx) #css starts */
+.teamtmo0iuz3mdx .fdb-block {
+    padding: 7.5rem 0;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-color: #FFFFFF }
+
+    .teamtmo0iuz3mdx  .fdb-block img + h4 {
+      margin-top: 1.25rem 
+    }
+
+    .teamtmo0iuz3mdx .fdb-block .row-70 {
+      height: 4.375rem;
+      width: 100%
+     }
+/* #tamzin(teamtmo0iuz3mdx) #css ends */
+/*****tamzin*****/
+
+/*****flane*****/
+    /* #flane(flaneft7gnhn3qye) #css starts */
+    .flaneft7gnhn3qye img{
+        max-height: 40px
+    }
+    /* #flane(flaneft7gnhn3qye) #css ends */
+/*****flane*****/
